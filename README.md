@@ -8,7 +8,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Sistemas de informação ](https://puc-campinas.edu.br) | [Engenharia de Software](https://univesp.br/) |
+🎓 Eu estudo [[Sistemas de informação(PUC-CAMPINAS)](https://puc-campinas.edu.br) | [Engenharia de Software(Univesp)](https://univesp.br/) |
 
 <!--👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual] 
 
