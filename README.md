@@ -36,14 +36,6 @@ Aqui está uma animação das minhas contribuições no GitHub transformada em u
 ![Snake animation](https://github.com/masiesque/masiesque/blob/output/github-contribution-grid-snake.svg)
 
 ---
-
-### 💡 Programação em Foco
-*Atualize a página para ver uma nova frase!*
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
----
-
 ### 📫 Vamos nos conectar?
 <div align="left">
   <a href="https://www.linkedin.com/in/breno-masiesque-dev/" target="_blank">
