@@ -25,16 +25,22 @@ Atualmente sou estudante de **Sistemas de Informação na PUC-Campinas** e **Eng
 ---
 
 ### 📚 Aprendendo no momento...
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) — Expandindo horizontes no ecossistema corporativo.
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) — Explorando o desenvolvimento mobile cross-platform.
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) — Sistemas corporativos e escalabilidade.
+- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) — Desenvolvimento mobile moderno.
 
 ---
 
-### ⚡ GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masiesque&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masiesque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### 🐍 Contribuições em Movimento
+Aqui está uma animação das minhas contribuições no GitHub transformada em um jogo de cobrinha:
+
+![Snake animation](https://github.com/masiesque/masiesque/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💡 Programação em Foco
+*Atualize a página para ver uma nova frase!*
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 
